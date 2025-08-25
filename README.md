@@ -112,6 +112,21 @@ To implement a simple "artificial intelligence" for an opponent.
 
 To combine programming with thematic design to create an immersive user experience.
 
+## 🌐 How to View the Project
+You can access the final version of the project published on GitHub Pages via the link below:
+
+[Yu-Gi-Oh Jokenpo Edition](https://eslbcdev.github.io/Yu-Gi-Oh-Jokenpo-Edition/)
+
+Alternatively, you can run it locally:
+
+1. Clone the repository:
+```
+Bash
+
+git clone https://github.com/[your-username]/[repository-name].git
+```
+
+2. Navigate to the project directory and open the index.html file in your browser.
 ___
 
 Made with ❤️ by Ester Costa
